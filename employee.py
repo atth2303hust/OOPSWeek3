@@ -1,7 +1,7 @@
 """
 /****************/
-Mã sinh viên: [ĐIỀN MÃ SINH VIÊN]
-Họ tên: [ĐIỀN HỌ TÊN]
+Mã sinh viên: Phạm Anh Tú
+Họ tên: 202419007
 /****************/
 
 Lớp Employee cho bài thực hành quản lý nhóm dự án và nhân sự.
